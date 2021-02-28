@@ -2,13 +2,18 @@ remote_theme: StartBootstrap/freelancer-jekyll
 
 # Site settings
 title: Ortho Mathys
-email: 
-description: >
-  Ihr Orthopädie-Schuhmacher in Seftigen.
+email: kontakt@orthomathys.ch
+phone: 033 356 56 06
 baseurl: /
 url: https://www.orthomathys.ch
 
-# Social media profiles - feel free to add more here
+# Color settings
+primary: 686546
+primary-light: 77745d
+secondary: 8B4513
+secondary-light: A0522D
+
+# Social media profiles
 #twitter_username: SBootstrap
 #github_username:  BlackrockDigital
 facebook_username: heinz.mathys.798
@@ -18,7 +23,10 @@ facebook_username: heinz.mathys.798
 #skype_username: echo123
 linkedin_url: https://www.linkedin.com/in/heinz-mathys-7b3115114/
 
-phone_number: 033 356 56 06
+personal:
+  name: Heinz Mathys
+  occupation: Eidg. dipl. Schuhmachermeister
+  additional: IV & SUVA anerkannt
 
 address:
   street: Chefeligasse 5
