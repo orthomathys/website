@@ -2,6 +2,11 @@
 
 Website for an orthopedic shoemaker based in Seftigen.
 
+It is based on the work of:
+
+* https://github.com/jeromelachaud/freelancer-theme/
+* https://github.com/StartBootstrap/freelancer-jekyll/
+
 
 ## Test locally using podman
 
